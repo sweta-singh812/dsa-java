@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sweta-singh812/dsa-java/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/sweta-singh812/dsa-java/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/sweta-singh812/dsa-java/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sweta-singh812/dsa-java/tree/master/0042-trapping-rain-water) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sweta-singh812/dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sweta-singh812/dsa-java/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/sweta-singh812/dsa-java/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/sweta-singh812/dsa-java/tree/master/0042-trapping-rain-water) |
 | [0905-sort-array-by-parity](https://github.com/sweta-singh812/dsa-java/tree/master/0905-sort-array-by-parity) |
 | [0923-3sum-with-multiplicity](https://github.com/sweta-singh812/dsa-java/tree/master/0923-3sum-with-multiplicity) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sweta-singh812/dsa-java/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/sweta-singh812/dsa-java/tree/master/0018-4sum) |
 | [0905-sort-array-by-parity](https://github.com/sweta-singh812/dsa-java/tree/master/0905-sort-array-by-parity) |
 | [0923-3sum-with-multiplicity](https://github.com/sweta-singh812/dsa-java/tree/master/0923-3sum-with-multiplicity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sweta-singh812/dsa-java/tree/master/1346-check-if-n-and-its-double-exist) |
