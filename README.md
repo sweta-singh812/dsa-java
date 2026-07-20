@@ -58,6 +58,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sweta-singh812/dsa-java/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sweta-singh812/dsa-java/tree/master/0069-sqrtx) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sweta-singh812/dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sweta-singh812/dsa-java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sweta-singh812/dsa-java/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
