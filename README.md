@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sweta-singh812/dsa-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sweta-singh812/dsa-java/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sweta-singh812/dsa-java/tree/master/0042-trapping-rain-water) |
+| [0162-find-peak-element](https://github.com/sweta-singh812/dsa-java/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sweta-singh812/dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sweta-singh812/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/sweta-singh812/dsa-java/tree/master/0905-sort-array-by-parity) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sweta-singh812/dsa-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sweta-singh812/dsa-java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sweta-singh812/dsa-java/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/sweta-singh812/dsa-java/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/sweta-singh812/dsa-java/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sweta-singh812/dsa-java/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sweta-singh812/dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
