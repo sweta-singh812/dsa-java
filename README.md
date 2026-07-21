@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sweta-singh812/dsa-java/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sweta-singh812/dsa-java/tree/master/0042-trapping-rain-water) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sweta-singh812/dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sweta-singh812/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/sweta-singh812/dsa-java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/sweta-singh812/dsa-java/tree/master/0923-3sum-with-multiplicity) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/sweta-singh812/dsa-java/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sweta-singh812/dsa-java/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sweta-singh812/dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sweta-singh812/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sweta-singh812/dsa-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sweta-singh812/dsa-java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Math
