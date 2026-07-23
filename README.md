@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sweta-singh812/dsa-java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/sweta-singh812/dsa-java/tree/master/0923-3sum-with-multiplicity) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sweta-singh812/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/sweta-singh812/dsa-java/tree/master/1089-duplicate-zeros) |
 | [1095-find-in-mountain-array](https://github.com/sweta-singh812/dsa-java/tree/master/1095-find-in-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sweta-singh812/dsa-java/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sweta-singh812/dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sweta-singh812/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sweta-singh812/dsa-java/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sweta-singh812/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/sweta-singh812/dsa-java/tree/master/1095-find-in-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sweta-singh812/dsa-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sweta-singh812/dsa-java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
