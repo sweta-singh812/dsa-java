@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sweta-singh812/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/sweta-singh812/dsa-java/tree/master/1089-duplicate-zeros) |
 | [1095-find-in-mountain-array](https://github.com/sweta-singh812/dsa-java/tree/master/1095-find-in-mountain-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sweta-singh812/dsa-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sweta-singh812/dsa-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sweta-singh812/dsa-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sweta-singh812/dsa-java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sweta-singh812/dsa-java/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sweta-singh812/dsa-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sweta-singh812/dsa-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sweta-singh812/dsa-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String
