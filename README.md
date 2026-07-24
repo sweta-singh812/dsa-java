@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sweta-singh812/dsa-java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sweta-singh812/dsa-java/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/sweta-singh812/dsa-java/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/sweta-singh812/dsa-java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sweta-singh812/dsa-java/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/sweta-singh812/dsa-java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0922-sort-array-by-parity-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sweta-singh812/dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/sweta-singh812/dsa-java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sweta-singh812/dsa-java/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sweta-singh812/dsa-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
