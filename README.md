@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sweta-singh812/dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sweta-singh812/dsa-java/tree/master/0162-find-peak-element) |
+| [0219-contains-duplicate-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/sweta-singh812/dsa-java/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0410-split-array-largest-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sweta-singh812/dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0219-contains-duplicate-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/sweta-singh812/dsa-java/tree/master/0923-3sum-with-multiplicity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sweta-singh812/dsa-java/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sweta-singh812/dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sweta-singh812/dsa-java/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/sweta-singh812/dsa-java/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sweta-singh812/dsa-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
