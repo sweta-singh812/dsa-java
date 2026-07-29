@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sweta-singh812/dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sweta-singh812/dsa-java/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/sweta-singh812/dsa-java/tree/master/0283-move-zeroes) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sweta-singh812/dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sweta-singh812/dsa-java/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/sweta-singh812/dsa-java/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sweta-singh812/dsa-java/tree/master/0374-guess-number-higher-or-lower) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0410-split-array-largest-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sweta-singh812/dsa-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sweta-singh812/dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sweta-singh812/dsa-java/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/sweta-singh812/dsa-java/tree/master/1052-grumpy-bookstore-owner) |
