@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sweta-singh812/dsa-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sweta-singh812/dsa-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sweta-singh812/dsa-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sweta-singh812/dsa-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sweta-singh812/dsa-java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2105-watering-plants-ii](https://github.com/sweta-singh812/dsa-java/tree/master/2105-watering-plants-ii) |
 ## Two Pointers
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sweta-singh812/dsa-java/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0410-split-array-largest-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sweta-singh812/dsa-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sweta-singh812/dsa-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sweta-singh812/dsa-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sweta-singh812/dsa-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sweta-singh812/dsa-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sweta-singh812/dsa-java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## String
 |  |
