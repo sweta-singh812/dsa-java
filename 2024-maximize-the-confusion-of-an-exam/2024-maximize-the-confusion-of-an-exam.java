@@ -34,10 +34,8 @@ class Solution {
             }
 
             // Update longest valid window
-            maxLength = Math.max(
-                maxLength,
-                right - left + 1
-            );
+            maxLength = Math.max(maxLength,right - left + 1);
+               
         }
 
         return maxLength;
