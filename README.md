@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sweta-singh812/dsa-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sweta-singh812/dsa-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sweta-singh812/dsa-java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sweta-singh812/dsa-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sweta-singh812/dsa-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2105-watering-plants-ii](https://github.com/sweta-singh812/dsa-java/tree/master/2105-watering-plants-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sweta-singh812/dsa-java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sweta-singh812/dsa-java/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/sweta-singh812/dsa-java/tree/master/0923-3sum-with-multiplicity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sweta-singh812/dsa-java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sweta-singh812/dsa-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sweta-singh812/dsa-java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/sweta-singh812/dsa-java/tree/master/1208-get-equal-substrings-within-budget) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sweta-singh812/dsa-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sweta-singh812/dsa-java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sweta-singh812/dsa-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sweta-singh812/dsa-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sweta-singh812/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/sweta-singh812/dsa-java/tree/master/1208-get-equal-substrings-within-budget) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sweta-singh812/dsa-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sweta-singh812/dsa-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sweta-singh812/dsa-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sweta-singh812/dsa-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sweta-singh812/dsa-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sweta-singh812/dsa-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sweta-singh812/dsa-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sweta-singh812/dsa-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sweta-singh812/dsa-java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sweta-singh812/dsa-java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
