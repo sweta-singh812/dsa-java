@@ -1,78 +1,43 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
+        int Llimit = Lmaxi(nums);
+        int Hlimit = maxi(nums);
+        return mqu(Llimit,Hlimit,nums,k);
+    }static int mqu(int left,int right,int[] nums, int k){
+        while(left<right){
+            int mid = left + (right - left) / 2;
+            int pc = 1;
+            int sum = 0;
+            for(int i = 0;i<nums.length;i++){
+                
+                if(sum + nums[i] > mid){
+                    pc++;
+                    sum = nums[i];
+                }else{
+                    sum+= nums[i];
+                }
 
-        int start = maxElement(nums);
-        int end = sumArray(nums);
-
-        while(start<=end){
-
-            int mid = start + (end - start) /2; 
-
-            if(CanSplit(nums,k,mid)){
-
-                end = mid - 1;
+            }if(pc<=k){
+                right = mid;
+            }else{
+                left = mid+1;
             }
-            else{
-
-                start = mid +1;
-            }
-        }
-
-        return start;
-        
+        }return left;
     }
+    static int maxi(int[] nums){
+        int max = 0;
+        for(int i = 0;i<nums.length;i++){
+            max += nums[i];
+        }return max;
 
-
-    static int maxElement(int[] nums) {
-
-        int max = nums[0];
-
-        for( int num: nums){
-
-            if(num > max){
-
-                max = num;
-            }
-            
-        }
-        return max;
     }
-
-
-    static int sumArray(int[] nums){
-
-        int sum =0;
-
-        for ( int num: nums){
-
-            sum += num;
-        }
-
-        return sum;
-    }
-
-
-    static boolean CanSplit(int[] nums, int k ,int limit) {
-
-        int peices = 1; 
-        int currentSum=0;
-
-        for (int num : nums){
-
-            if(currentSum + num >limit ){
-
-                peices++;
-                currentSum = num;
+    static int Lmaxi(int[] nums){
+        int max = Integer.MIN_VALUE;
+        for(int i = 0;i<nums.length;i++){
+            if(max < nums[i]){
+                max = nums[i];
             }
+        }return max;
 
-            else{
-
-                currentSum +=num;
-            }
-        }
-
-        return peices <= k;
     }
-
-    
 }
