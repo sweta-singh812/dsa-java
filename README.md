@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sweta-singh812/dsa-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sweta-singh812/dsa-java/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sweta-singh812/dsa-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/sweta-singh812/dsa-java/tree/master/1672-richest-customer-wealth) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sweta-singh812/dsa-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/sweta-singh812/dsa-java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sweta-singh812/dsa-java/tree/master/1929-concatenation-of-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sweta-singh812/dsa-java/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/sweta-singh812/dsa-java/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
 | ------- |
