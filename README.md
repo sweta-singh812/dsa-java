@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sweta-singh812/dsa-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sweta-singh812/dsa-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/sweta-singh812/dsa-java/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/sweta-singh812/dsa-java/tree/master/1929-concatenation-of-array) |
 | [2105-watering-plants-ii](https://github.com/sweta-singh812/dsa-java/tree/master/2105-watering-plants-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sweta-singh812/dsa-java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/sweta-singh812/dsa-java/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/sweta-singh812/dsa-java/tree/master/1929-concatenation-of-array) |
 | [2105-watering-plants-ii](https://github.com/sweta-singh812/dsa-java/tree/master/2105-watering-plants-ii) |
 ## Hash Table
 |  |
