@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sweta-singh812/dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sweta-singh812/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sweta-singh812/dsa-java/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/sweta-singh812/dsa-java/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sweta-singh812/dsa-java/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/sweta-singh812/dsa-java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0922-sort-array-by-parity-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sweta-singh812/dsa-java/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/sweta-singh812/dsa-java/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sweta-singh812/dsa-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sweta-singh812/dsa-java/tree/master/0069-sqrtx) |
+| [0877-stone-game](https://github.com/sweta-singh812/dsa-java/tree/master/0877-stone-game) |
 ## Interactive
 |  |
 | ------- |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sweta-singh812/dsa-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sweta-singh812/dsa-java/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sweta-singh812/dsa-java/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sweta-singh812/dsa-java/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
