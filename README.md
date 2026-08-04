@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/sweta-singh812/dsa-java/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/sweta-singh812/dsa-java/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/sweta-singh812/dsa-java/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/sweta-singh812/dsa-java/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/sweta-singh812/dsa-java/tree/master/0713-subarray-product-less-than-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sweta-singh812/dsa-java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sweta-singh812/dsa-java/tree/master/0018-4sum) |
+| [0414-third-maximum-number](https://github.com/sweta-singh812/dsa-java/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/sweta-singh812/dsa-java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/sweta-singh812/dsa-java/tree/master/0923-3sum-with-multiplicity) |
