@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/sweta-singh812/dsa-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sweta-singh812/dsa-java/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/sweta-singh812/dsa-java/tree/master/0414-third-maximum-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sweta-singh812/dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/sweta-singh812/dsa-java/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/sweta-singh812/dsa-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sweta-singh812/dsa-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sweta-singh812/dsa-java/tree/master/0567-permutation-in-string) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sweta-singh812/dsa-java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sweta-singh812/dsa-java/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/sweta-singh812/dsa-java/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sweta-singh812/dsa-java/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/sweta-singh812/dsa-java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0922-sort-array-by-parity-ii) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sweta-singh812/dsa-java/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/sweta-singh812/dsa-java/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sweta-singh812/dsa-java/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sweta-singh812/dsa-java/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0410-split-array-largest-sum) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sweta-singh812/dsa-java/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/sweta-singh812/dsa-java/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/sweta-singh812/dsa-java/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sweta-singh812/dsa-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/sweta-singh812/dsa-java/tree/master/1512-number-of-good-pairs) |
@@ -251,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sweta-singh812/dsa-java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sweta-singh812/dsa-java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
