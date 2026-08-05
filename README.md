@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sweta-singh812/dsa-java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sweta-singh812/dsa-java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sweta-singh812/dsa-java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sweta-singh812/dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sweta-singh812/dsa-java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sweta-singh812/dsa-java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sweta-singh812/dsa-java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sweta-singh812/dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sweta-singh812/dsa-java/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sweta-singh812/dsa-java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
