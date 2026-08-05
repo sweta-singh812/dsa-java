@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sweta-singh812/dsa-java/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/sweta-singh812/dsa-java/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sweta-singh812/dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sweta-singh812/dsa-java/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/sweta-singh812/dsa-java/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/sweta-singh812/dsa-java/tree/master/0713-subarray-product-less-than-k) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sweta-singh812/dsa-java/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/sweta-singh812/dsa-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sweta-singh812/dsa-java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sweta-singh812/dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/sweta-singh812/dsa-java/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/sweta-singh812/dsa-java/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/sweta-singh812/dsa-java/tree/master/0923-3sum-with-multiplicity) |
