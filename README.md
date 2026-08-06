@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sweta-singh812/dsa-java/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/sweta-singh812/dsa-java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sweta-singh812/dsa-java/tree/master/0268-missing-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sweta-singh812/dsa-java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sweta-singh812/dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/sweta-singh812/dsa-java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sweta-singh812/dsa-java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sweta-singh812/dsa-java/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/sweta-singh812/dsa-java/tree/master/0424-longest-repeating-character-replacement) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sweta-singh812/dsa-java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sweta-singh812/dsa-java/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/sweta-singh812/dsa-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sweta-singh812/dsa-java/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sweta-singh812/dsa-java/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/sweta-singh812/dsa-java/tree/master/0905-sort-array-by-parity) |
