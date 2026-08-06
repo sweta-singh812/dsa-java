@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sweta-singh812/dsa-java/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sweta-singh812/dsa-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/sweta-singh812/dsa-java/tree/master/1512-number-of-good-pairs) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sweta-singh812/dsa-java/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Interactive
 |  |
 | ------- |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sweta-singh812/dsa-java/tree/master/0268-missing-number) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sweta-singh812/dsa-java/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
