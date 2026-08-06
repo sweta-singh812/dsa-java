@@ -1,36 +1,27 @@
-import java.util.*;
-
 class Solution {
-
     public int longestOnes(int[] nums, int k) {
 
-        int left = 0;
-        int zeroCount = 0;
-        int maxLength = 0;
+        int zeroCount =0;
+        int start =0;
+        int maxOnes = 0;
 
-        for (int right = 0; right < nums.length; right++) {
-
-            // A new element enters the window
-            if (nums[right] == 0) {
+        for(int right =0; right< nums.length; right++){
+            if(nums[right]==0){
                 zeroCount++;
             }
 
-            // If window becomes invalid, shrink it
-            while (zeroCount > k) {
+            while(zeroCount > k){
 
-                // If a zero leaves the window,
-                // decrease zeroCount
-                if (nums[left] == 0) {
+                if(nums[start]==0){
                     zeroCount--;
                 }
-
-                left++;
+                start++;
             }
 
-            // Window is valid, update answer
-            maxLength = Math.max(maxLength, right - left + 1);
+            maxOnes = Math.max(maxOnes, right-start+1);
         }
 
-        return maxLength;
+        return maxOnes;
+        
     }
 }
